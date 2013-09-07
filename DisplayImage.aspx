@@ -1,0 +1,1 @@
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="DisplayImage.aspx.vb" Inherits="Admin_DisplayImage" %>
